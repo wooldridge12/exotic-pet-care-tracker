@@ -1,0 +1,22 @@
+body {
+    height: 100%;
+}
+
+.introPage {
+    background-image: url('Loony.jpg');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.getStartedBtn {
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+.introSentence {
+    text-align: center;
+    font-family: 'Macondo', cursive;
+    font-size: xx-large;  
+}
