@@ -8,6 +8,8 @@ export const ApplicationViews = () => {
             <Route exact path="/">
                 <MainPageIntro />
             </Route>
+
+            <Route exact path="/careTracker">It Worked!</Route>
         </>
     )
 }
