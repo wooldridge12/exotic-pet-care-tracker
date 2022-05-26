@@ -12,6 +12,13 @@ export const MainPageIntro = () => {
             <button className="getStartedBtn"
                 onClick={() => {
                     history.push({pathname:"/caretracker"})}}>Lets Get Started!</button>
+            
+            <br></br>
+
+            <button className="leearnBtn"
+                onClick={() => {
+                    history.push({pathname:"/learnMore"})
+                }}>want to learn more about bearded dreagons? Click Here!</button>
         </div>
     )
 }
