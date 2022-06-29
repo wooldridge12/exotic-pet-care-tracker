@@ -3,7 +3,7 @@ import { useHistory } from "react-router-dom"
 import "./LearnMore.css"
 
 
-// This will just return facts about bearded dragon care.
+// This will just return options of facts about bearded dragon care.
 export const LearnMorePage = () => {
     const history = useHistory()
     return (

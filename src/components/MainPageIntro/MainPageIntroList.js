@@ -15,7 +15,7 @@ export const MainPageIntro = () => {
             
             <br></br>
 
-            <button className="leearnBtn"
+            <button className="learnBtn"
                 onClick={() => {
                     history.push({pathname:"/learnMore"})
                 }}>want to learn more about bearded dreagons? Click Here!</button>
