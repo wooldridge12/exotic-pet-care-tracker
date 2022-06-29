@@ -1,5 +1,6 @@
 import React from "react";
 import { Route } from "react-router-dom";
+import { CareFactsList } from "./LearnMore/care";
 import { LearnMorePage } from "./LearnMore/LearnMore";
 import { MainPageIntro } from "./MainPageIntro/MainPageIntroList";
 
@@ -14,6 +15,10 @@ export const ApplicationViews = () => {
 
             <Route exact path="/learnMore">
                 <LearnMorePage />
+            </Route>
+
+            <Route exact path="/care">
+                <CareFactsList />
             </Route>
         </>
     )
