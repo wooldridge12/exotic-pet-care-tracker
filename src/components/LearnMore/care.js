@@ -26,6 +26,15 @@ export const CareFactsList = () => {
                     <li>
                         Ensure a gradient of temperatures in their enclosure, from 77 degrees F (25 degrees C) on the cool side to 90 degrees F (32 degrees C) on the warm side with a hot basking spot of around 100 degrees (38 degrees C). At night, the temperature should drop no lower than mid 70 degrees F (23 - 24 degrees C).
                     </li>
+                    <li>
+                        Provide captive bearded dragons with approximately 12 hours of UVB lighting in their enclosures each day. Talk to your reptile veterinarian for the best current recommendations in UV bulbs. Fluorescent UVB bulbs should be replaced every 6 months to ensure proper UVB output. It is ideal to provide direct sunlight when possible (note that UVB rays are blocked by glass or plexiglass). 
+                    </li>
+                    <li>
+                        Allow supervised time outdoors to bask when the temperature is above 70 degrees F (20 degrees C) (only in secure enclosures that will not overheat with access to shade and water).
+                    </li>
+                    <li>
+                        Consult with your exotic animal veterinarian about supplementaion of calcium and vitamins (generally should include regular calcium carbonate with mixed vitamins every 1 - 2 weeks).
+                    </li>
                 </ul>
             </section>
         </div>
