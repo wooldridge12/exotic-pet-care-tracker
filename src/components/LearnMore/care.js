@@ -36,6 +36,36 @@ export const CareFactsList = () => {
                         Consult with your exotic animal veterinarian about supplementaion of calcium and vitamins (generally should include regular calcium carbonate with mixed vitamins every 1 - 2 weeks).
                     </li>
                 </ul>
+
+                <hr />
+
+                <h3>Housing your Bearded dragon Should:</h3>
+                <ul>
+                    <li>
+                        Be spacious and easy to clean with smooth sides to prevent rostral (nose) abrasions.
+                    </li>
+                    <li>
+                        Be the size of a 10 - gallon tank for baby dragon; adults need large enclosures that have a square footage of at least four times the length of the bearded dragon [a 2 foot bearded dragon would need an enclosure of atleast 4 x 2 ft (1.2 x0.6 m)].
+                    </li>
+                    <li>
+                        Be large enough for climbing, exploration, and basking.
+                    </li>
+                    <li>
+                        Contain thick climbing branches or rocks to support heavy-bodied dragons.
+                    </li>
+                    <li>
+                        Have access to food and water containers for frequent cleaning.
+                    </li>
+                    <li>
+                        Provide a hiding area, such as a cardboard box or clay plant pot.
+                    </li>
+                    <li>
+                        Include non-particulate substrates such as reptile carpet (consult with you exotic animal veterinarian about other substrate recommendations for adults).
+                    </li>
+                    <li>
+                        Dragon babies less than 6 months old should be housed on paper towels.
+                    </li>
+                </ul>
             </section>
         </div>
     )
