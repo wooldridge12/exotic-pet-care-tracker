@@ -9,7 +9,7 @@ export const CareFactsList = () => {
             <h1>Care facts</h1>
             <h1>How to keep your bearded dragon healthy, happy, and safe!</h1>
             <section>
-                <h3>ALways</h3>
+                <h3>Always</h3>
                 <ul>
                     <li>
                         Wash your hands before and after handling your beadred dragon or cleaning the enclosure.
@@ -64,6 +64,33 @@ export const CareFactsList = () => {
                     </li>
                     <li>
                         Dragon babies less than 6 months old should be housed on paper towels.
+                    </li>
+                </ul>
+
+                <hr />
+
+                <h3>It is important to avoid:</h3>
+                <ul>
+                    <li>
+                        gravel, corn cob bedding, sand (including calcium sand), walnut shavings as substrates (to avoid possible gastrointinal impaction)
+                    </li>
+                    <li>
+                        potentially toxic live plants
+                    </li>
+                    <li>
+                        free roam of the house (to prevent chilling, trauma, ingestion of foreign materials and escape)
+                    </li>
+                    <li>
+                        shared housing between any two or more dragons of different sizes
+                    </li>
+                    <li>
+                        potential for direct contact with heating elements (including hot rocks)
+                    </li>
+                    <li>
+                        over - supplementaion of vitamins or minerals
+                    </li>
+                    <li>
+                        feeding lightning bugs (which are toxic) or wild insects that might contain insecticide toxins
                     </li>
                 </ul>
             </section>
