@@ -4,7 +4,9 @@ import "./CareTracker.css"
 export const CareTracker = () => {
     return (
         <>
-            It Worked!!!
+            <button>Bath</button>
+            <button>Food</button>
+            <button>Playtime</button>
         </>
     )
 }
