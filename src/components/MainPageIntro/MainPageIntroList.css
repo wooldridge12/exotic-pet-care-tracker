@@ -11,8 +11,19 @@ body {
 }
 
 .getStartedBtn {
-    margin-left: 45%;
     margin-top: 20%;
+}
+
+.learnBtn {
+    margin-top: 1rem;
+}
+
+.btns {
+    margin-left: 25%;
+    height: 2rem;
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 4px;
 }
 
 .introSentence {
