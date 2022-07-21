@@ -9,13 +9,13 @@ export const MainPageIntro = () => {
     return (
         <div className="introPage">
             <div className="introSentence">Welcome To Exotic Pet Care Tracker!</div>
-            <button className="getStartedBtn"
+            <button className="getStartedBtn btns"
                 onClick={() => {
                     history.push({pathname:"/caretracker"})}}>Lets Get Started!</button>
             
             <br></br>
 
-            <button className="learnBtn"
+            <button className="learnBtn btns"
                 onClick={() => {
                     history.push({pathname:"/learnMore"})
                 }}>want to learn more about bearded dreagons? Click Here!</button>
